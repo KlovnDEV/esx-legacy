@@ -107,7 +107,7 @@ Locales['en'] = {
   ['weapon_battleaxe'] = 'Battle Axe',
   ['weapon_bottle'] = 'Bottle',
   ['weapon_crowbar'] = 'Brekkjern',
-  ['weapon_flashlight'] = 'Flashlight',
+  ['weapon_flashlight'] = 'Lommelykt',
   ['weapon_golfclub'] = 'Golfkølle',
   ['weapon_hammer'] = 'Hammer',
   ['weapon_hatchet'] = 'Hatchet',
@@ -219,10 +219,10 @@ Locales['en'] = {
   -- Special
   ['weapon_fireextinguisher'] = 'Fire Extinguisher',
   ['weapon_digiscanner'] = 'Digital Scanner',
-  ['weapon_garbagebag'] = 'Garbage Bag',
-  ['weapon_handcuffs'] = 'Handcuffs',
+  ['weapon_garbagebag'] = 'Søppelpose',
+  ['weapon_handcuffs'] = 'Håndjern',
   ['gadget_nightvision'] = 'Night Vision',
-  ['gadget_parachute'] = 'parachute',
+  ['gadget_parachute'] = 'Fallskjerm',
 
   -- Weapon Components
   ['component_knuckle_base'] = 'base Model',
