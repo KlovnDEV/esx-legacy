@@ -27,7 +27,7 @@ Locales['en'] = {
   ['keymap_showinventory'] = 'Vis Inventar',
 
   -- Salary related
-  ['received_salary'] = 'You have been paid: $%s',
+  ['received_salary'] = 'Du har blitt betalt: $%s',
   ['received_help'] = 'You have been paid your welfare check: $%s',
   ['company_nomoney'] = 'the company you\'re employeed at is too poor to pay out your salary',
   ['received_paycheck'] = 'received paycheck',
