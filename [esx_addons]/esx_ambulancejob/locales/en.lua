@@ -40,9 +40,9 @@ Locales['en'] = {
   ['player_not_unconscious'] = 'That player is not unconscious!',
   ['player_not_conscious'] = 'That player is not conscious!',
   -- Boss Menu
-  ['boss_actions'] = 'Boss Actions',
+  ['boss_actions'] = 'Sjefsmeny',
   -- Misc
-  ['invalid_amount'] = 'Invalid amount',
+  ['invalid_amount'] = 'Ugyldig beløp',
   ['actions_prompt'] = 'Press [E] access the Ambulance Actions.',
   ['deposit_amount'] = 'Deposit Amount',
   ['money_withdraw'] = 'Amount withdrawn',
