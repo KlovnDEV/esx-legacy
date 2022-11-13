@@ -1,10 +1,13 @@
 <h1 align='center'>ESX Legacy - Norsk Vershjon</a></h1>
-<p align='center'><b><a href='https://discord.gg/uzax7sWbjP'>Discord</a> - <a href='https://esx-framework.org/'>Website</a> - <a href='https://docs.esx-framework.org/legacy/installation'>Documentation</a></b></h5>
+<p align='center'><b><a href='https://discord.gg/uzax7sWbjP'>Discord</a> - <a href='https://esx-framework.org/'> Offisielle ESX Nettsiden</a> - <a href='https://docs.esx-framework.org/legacy/installation'>Offisielle Docs for ESX</a></b></h5>
 
-<p align='center'>Want More resources? You can browse the <a href="https://github.com/esx-community/">ESX Community Github</a> or <a href="https://forum.cfx.re/tag/esx">Cfx.re Releases board</a> for more!
-<p align='center'><b>ESX is the leading framework, trusted By thousands of commmunitys for the heighest quality roleplay servers on FiveM</b></p>
+<p align='center'>Vil du ha flere ressurser? Du kan bla gjennom <a href="https://github.com/esx-community/">ESX Community Github</a> or <a href="https://forum.cfx.re/tag/esx">Cfx.re Releases board</a> for more!
+<p align='center'><b>ESX er det ledende rammeverket, godkjent av tusenvis av communities for høyt kvalitetsrollespill i over 5+ år på Fivem</b></p>
 
 <hr>
+
+
+### Orignal info from the devs of ESX:
 
 ### Supporters
 
