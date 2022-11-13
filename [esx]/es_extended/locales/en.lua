@@ -28,9 +28,9 @@ Locales['en'] = {
 
   -- Salary related
   ['received_salary'] = 'Du har blitt betalt: $%s',
-  ['received_help'] = 'You have been paid your welfare check: $%s',
-  ['company_nomoney'] = 'the company you\'re employeed at is too poor to pay out your salary',
-  ['received_paycheck'] = 'received paycheck',
+  ['received_help'] = 'Du har fått betalt velferdssjekken din: $%s',
+  ['company_nomoney'] = 'selskapet du er ansatt på er for dårlig til å betale ut lønnen din',
+  ['received_paycheck'] = 'fikk lønnslipp',
   ['bank'] = 'Sparebank 1',
   ['account_bank'] = 'Bank',
   ['account_black_money'] = 'Skitne Penger',
