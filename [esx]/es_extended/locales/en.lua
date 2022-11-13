@@ -198,7 +198,7 @@ Locales['en'] = {
   ['weapon_rayminigun'] = 'Widowmaker',
 
   -- Criminal Enterprises DLC
-  ['weapon_metaldetector'] = 'Metal Detector',
+  ['weapon_metaldetector'] = 'Metalldetektor',
   ['weapon_precisionrifle'] = 'Precision Rifle',
   ['weapon_tactilerifle'] = 'Service Carbine',
 
@@ -344,6 +344,6 @@ Locales['en'] = {
   ['tint_platinum'] = 'platinum skin',
   
   -- Duty related
-  ['stopped_duty'] = 'You\'ve stopped your duty.',
-  ['started_duty'] = 'You\'ve started your duty.',
+  ['stopped_duty'] = 'Du har gått av vakt.',
+  ['started_duty'] = 'Du har gått på vakt.',
 }
