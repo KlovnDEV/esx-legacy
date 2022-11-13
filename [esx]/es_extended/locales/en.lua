@@ -10,20 +10,6 @@ Locales['en'] = {
   ['giveammo'] = 'Gi ammo',
   ['amountammo'] = 'Antall Ammo',
   ['noammo'] = 'Ikke nok ammo!',
-  ['gave_item'] = 'Gir %sx %s to %s',
-  ['received_item'] = 'Fikk %sx %s fra %s',
-  ['gave_weapon'] = 'Gir %s til %s',
-  ['gave_weapon_ammo'] = 'Giving ~o~%sx %s for %s to %s',
-  ['gave_weapon_withammo'] = 'Giving %s med ~o~%sx %s til %s',
-  ['gave_weapon_hasalready'] = '%s already has a %s',
-  ['gave_weapon_noweapon'] = '%s does not have that weapon',
-  ['received_weapon'] = 'Fikk %s fra %s',
-  ['received_weapon_ammo'] = 'Fikk ~o~%sx %s for din %s fra %s',
-  ['received_weapon_withammo'] = 'Fikk %s med ~o~%sx %s fra %s',
-  ['received_weapon_hasalready'] = '%s has attempted to give you a %s, but you already this weapon',
-  ['received_weapon_noweapon'] = '%s has attempted to give you ammo for a %s, but you do not have this weapon',
-  ['gave_account_money'] = 'Gir $%s (%s) til %s',
-  ['received_account_money'] = 'Received $%s (%s) fra %s',
   ['amount_invalid'] = 'Invalid quantity',
   ['players_nearby'] = 'No nearby Players',
   ['ex_inv_lim'] = 'Cannot perfom action,exceeding max weight of %s',
@@ -38,7 +24,7 @@ Locales['en'] = {
   ['threw_pickup_prompt'] = 'Press E to Pickup',
 
   -- Key mapping
-  ['keymap_showinventory'] = 'Show Inventory',
+  ['keymap_showinventory'] = 'Vis Inventar',
 
   -- Salary related
   ['received_salary'] = 'You have been paid: $%s',
