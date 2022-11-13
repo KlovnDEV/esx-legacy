@@ -1,12 +1,12 @@
 Locales['en'] = {
   -- Cloakroom
-  ['cloakroom'] = 'Locker Room',
-  ['ems_clothes_civil'] = 'Civilian Clothes',
-  ['ems_clothes_ems'] = 'EMS Clothes',
+  ['cloakroom'] = 'Garderobe',
+  ['ems_clothes_civil'] = 'Sivile Klær',
+  ['ems_clothes_ems'] = 'Jobb-klær',
   -- Vehicles
-  ['ambulance'] = 'Ambulance',
-  ['helicopter_prompt'] = 'Press [E] to access the Helicopter Actions.',
-  ['garage_prompt'] = 'Press [E] to access the Vehicle Actions.',
+  ['ambulance'] = 'Helse Nord-Norge',
+  ['helicopter_prompt'] = 'Trykk [E] for tilgang til Helikopter-meny.',
+  ['garage_prompt'] = 'Trykk [E] for tilgang til Kjøretøy-meny.',
   ['garage_title'] = 'Vehicle Actions',
   ['garage_stored'] = 'Stored',
   ['garage_notstored'] = 'Not in garage',
